@@ -1,6 +1,5 @@
 # Howdy🤠! I am Firas Ben Mefteh
-> Give me a terminal <img src="https://emojis.slackmojis.com/emojis/images/1476969053/1263/terminal.png?1476969053" width="15"> and a UNIX shell <img src="https://emojis.slackmojis.com/emojis/images/1605188880/11294/bash.png?1605188880
-" width="15"> and I will you make you something cool <img src="https://emojis.slackmojis.com/emojis/images/1611858020/12259/cool_cat.gif?1611858020" width="15">.
+> Give me a terminal <img src="https://emojis.slackmojis.com/emojis/images/1476969053/1263/terminal.png?1476969053" width="15"> and a UNIX shell <img src="https://emojis.slackmojis.com/emojis/images/1605188880/11294/bash.png?1605188880" width="15"> and I will you make you something cool <img src="https://emojis.slackmojis.com/emojis/images/1611858020/12259/cool_cat.gif?1611858020" width="15">.
 
 I am a Fullstack web developer, who is passionate about learning and working 
 with new tech. I love building interesting and amazing products that serve a 
